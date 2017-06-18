@@ -1,8 +1,8 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`toMatchStyledComponentsSnapshot null 1`] = `null`;
+exports[`toMatchSnapshot null 1`] = `null`;
 
-exports[`toMatchStyledComponentsSnapshot shallow 1`] = `
+exports[`toMatchSnapshot shallow 1`] = `
 .c0 {
   padding: 4em;
   background: papayawhip;
@@ -17,7 +17,7 @@ exports[`toMatchStyledComponentsSnapshot shallow 1`] = `
 </section>
 `;
 
-exports[`toMatchStyledComponentsSnapshot test-renderer 1`] = `
+exports[`toMatchSnapshot test-renderer 1`] = `
 .c1 {
   padding: 4em;
   background: papayawhip;
